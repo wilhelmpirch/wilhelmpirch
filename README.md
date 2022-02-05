@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wilhelmpirch
+- 👀 I’m interested in mobile Apps (Android) and Network-Administration
+- 📫 How to reach me: wilhelm@ppirch.de
